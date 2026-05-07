@@ -13,7 +13,7 @@ This repository is documentation-only. It does not run autonomous research agent
 | Field | Value |
 | --- | --- |
 | Status | Scaffolded / published |
-| Steward | Alexandra Caussade public technical identity |
+| Steward | K-ussade public technical brand/account surface, stewarded by Alexandra Caussade |
 | Repository type | Public research workflow documentation kit |
 | Runtime status | Documentation-only; no live research agent |
 | Canonical source | GitHub public repository after publication |

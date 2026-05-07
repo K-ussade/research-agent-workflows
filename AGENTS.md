@@ -10,7 +10,7 @@ It is not a live research agent, scraper, publication bot, private prompt librar
 
 ## Authority
 
-- Alexandra Caussade stewards this public technical proof surface.
+- Alexandra Caussade stewards this repository through the K-ussade public technical brand/account surface.
 - Human editorial review remains upstream of publication, citation decisions, source selection, claim approval, and public linking.
 - Codex may draft public-safe standards, templates, synthetic examples, Mermaid diagrams, and validation checks.
 - Codex is not editorial authority, legal authority, copyright authority, Foundation governance authority, or publication authority.
